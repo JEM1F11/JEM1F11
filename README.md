@@ -1,6 +1,8 @@
 ### *BOAS VINDAS AO MEU PERFIL* 💙
-- Meu nome é Diego e Estou estudando na Alura
+- Meu nome é Diego e Estou estudando na Alura 
+ 
 - Estou me desenvolvendo na linguagem JavaScript
+ 
 - Ultilizo  esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos 
   
 
